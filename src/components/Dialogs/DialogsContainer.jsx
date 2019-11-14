@@ -1,3 +1,4 @@
+/*
 import React from 'react';
 
 import {addMesageActionCreator} from "../../redux/dialogsReducer";
@@ -27,4 +28,4 @@ let mapDispatchToProps = (dispatch) => {
     export default compose(
         connect(mapStateToProps, mapDispatchToProps)
 
-    ) (Dialogs)
+    ) (Dialogs)*/

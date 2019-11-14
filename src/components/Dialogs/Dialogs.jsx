@@ -1,3 +1,4 @@
+/*
 import React from 'react';
 import s from './Dialogs.module.css';
 import Message from "./Message/Message";
@@ -28,4 +29,4 @@ const Dialogs = (props) => {
     )
 }
 
-export default Dialogs;
+export default Dialogs;*/
